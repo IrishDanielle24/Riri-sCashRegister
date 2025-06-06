@@ -1,0 +1,36 @@
+==========================================================
+                   RODILLAS TRANSACTION RECEIPT
+==========================================================
+Date      : 2025-06-06
+Time      : 08:23:08 PM
+Customer  : RiriElle
+----------------------------------------------------------
+Items:
+1. Whole Yema Cake        x4  @ PHP 600  = PHP 2400
+2. Whole Caramel Cake     x10 @ PHP 600  = PHP 6000
+3. Whole 2 in 1 Yema Ube Cake x5  @ PHP 700  = PHP 3500
+4. Whole 2 in 1 Yema Caramel x3  @ PHP 700  = PHP 2100
+----------------------------------------------------------
+Total     : PHP 14000
+Payment   : PHP 15000
+Change    : PHP 1000
+==========================================================
+
+==========================================================
+                   RODILLAS TRANSACTION RECEIPT
+==========================================================
+Date      : 2025-06-06
+Time      : 08:24:18 PM
+Customer  : RiriElle
+----------------------------------------------------------
+Items:
+1. Whole Chocolate Cake   x10 @ PHP 500  = PHP 5000
+2. Whole 3 in 1 Yema, Caramel, Ube Cake x4  @ PHP 800  = PHP 3200
+3. Whole Yema de Fruta    x10 @ PHP 620  = PHP 6200
+4. Whole Chocolate Cake   x2  @ PHP 500  = PHP 1000
+----------------------------------------------------------
+Total     : PHP 15400
+Payment   : PHP 16000
+Change    : PHP 600
+==========================================================
+
